@@ -1,0 +1,13 @@
+com\seuProjeto\service\CorretorService.class
+com\seuProjeto\repository\CorretorRepository.class
+com\seuProjeto\controller\RegisterController.class
+com\seuProjeto\controller\ImovelController.class
+com\seuProjeto\repository\ImovelRepository.class
+com\seuProjeto\model\Corretor.class
+com\seuProjeto\model\Casa.class
+com\seuProjeto\controller\AuthController.class
+com\seuProjeto\CorretorImoveisApplication.class
+com\seuProjeto\model\Apartamento.class
+com\seuProjeto\model\Imovel.class
+com\seuProjeto\service\ImovelService.class
+com\seuProjeto\controller\CorretorController.class

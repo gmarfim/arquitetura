@@ -1,0 +1,9 @@
+Casa,Casa com jardim,corretor1@example.com,true
+Apartamento,Apartamento no centro,corretor2@example.com,10
+Casa,Casa na praia,corretor3@example.com,true
+Apartamento,Apartamento no bairro nobre,corretor4@example.com,5
+Apartamento,testes,corretor5@example.com,0
+Apartamento,Isto é um PIKACHU,corretor6@example.com,0
+Apartamento,pipipipipip,marfim@email.com,5
+Casa,kkkkkkkkkkkkkkkkkkkkkkk,marfim@email.com,true
+Apartamento,ggggggggggggggggggggg,lolololol@lolololol,7

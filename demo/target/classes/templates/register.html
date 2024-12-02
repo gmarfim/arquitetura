@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registrar Corretor</title>
+</head>
+<body>
+<h1>Cadastro de Corretor</h1>
+
+<!-- Exibe a mensagem de sucesso, se houver -->
+<div th:if="${mensagem}">
+    <p style="color: green;" th:text="${mensagem}"></p>
+</div>
+
+<form action="/register" method="post">
+    <label for="email">E-mail:</label>
+    <input type="email" id="email" name="email" required><br><br>
+
+    <label for="senha">Senha:</label>
+    <input type="password" id="senha" name="senha" required><br><br>
+
+    <label for="nome">Nome:</label>
+    <input type="text" id="nome" name="nome" required><br><br>
+
+    <button type="submit">Cadastrar</button>
+</form>
+
+<p>Já tem uma conta? <a href="/login">Faça login aqui</a></p>
+</body>
+</html>
